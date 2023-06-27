@@ -26,10 +26,10 @@ This homework covers detecting skin color pixels in hand images using a histogra
 ### Homework 5: Canny Edge Detection
 The fifth assignment involves the implementation of the Canny edge detection technique to accurately identify and locate sharp edges in an image.
 
-## Homework 6: Hough Transform Line Detection
+### Homework 6: Hough Transform Line Detection
 In this assignment, we implement the Hough transform technique to detect lines in images by creating a parameter space representing all possible lines in an image.
 
-## Homework 7: Template Matching Based Target Tracking
+### Homework 7: Template Matching Based Target Tracking
 The final assignment involves the implementation of a template-matching based technique for tracking the head of a girl over a sequence of 500 frames.
 ## Getting Started
 
